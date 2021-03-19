@@ -2,7 +2,7 @@
 
 - Back-end Developer
   - [![Java](https://img.shields.io/badge/Java-v11.10-darkred.svg?&logo=java)](https://docs.python.org/3.8/)
-    - [![Spring Boot](https://img.shields.io/badge/Spring Boot-v2.4-deepgreen.svg?&logo=spring)](https://docs.python.org/3.8/)
+    - [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-v2.4-deepgreen.svg?&logo=spring)](https://docs.python.org/3.8/)
     - [![Gradle](https://img.shields.io/badge/Gradle-v6.8-darkblue.svg?&logo=apache)](https://gradle.org/)
     - [![Maven](https://img.shields.io/badge/Maven-v3.6-blue.svg?&logo=apache)](https://maven.apache.org/)
     - [![JPA](https://img.shields.io/badge/jpa-v2.4-deepgreen.svg?&logo=Spring)](https://spring.io/projects/spring-data-jpa)
@@ -21,7 +21,7 @@
 
 - Etc
   - [![Sentry](https://img.shields.io/badge/Monitorning-Sentry-purple.svg)](https://sentry.io/)
-  - [![Github Actions](https://img.shields.io/badge/CI/CD-Github Actions-black.svg)](https://github.com/features/actions), [![CircleCI](https://img.shields.io/badge/CI/CD-CircleCI-black.svg)](https://circleci.com/)
+  - [![Github Actions](https://img.shields.io/badge/CI/CD-Github%20Actions-black.svg)](https://github.com/features/actions), [![CircleCI](https://img.shields.io/badge/CI/CD-CircleCI-black.svg)](https://circleci.com/)
   - [![AWS](https://img.shields.io/badge/Cloud-AWS-orange.svg)](https://aws.amazon.com/)
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=bestheroz&theme=blue-green)
