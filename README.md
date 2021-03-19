@@ -1,6 +1,9 @@
-### Hi there 👋
+![](https://img.shields.io/github/languages/count/beygee/survive)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bestheroz&hide=contribs,prs&show_icons=true)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bestheroz&hide=contribs,prs&show_icons=true&theme=dark)
 
 <!--
 **bestheroz/bestheroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
