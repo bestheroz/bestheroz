@@ -1,8 +1,8 @@
 ### Hi👋  I am ...🤔
 
 - Back-end Developer
-  - [![Java](https://img.shields.io/badge/Java-v11.10-darkred.svg?&logo=java)](https://docs.python.org/3.8/)
-    - [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-v2.4-deepgreen.svg?&logo=spring)](https://docs.python.org/3.8/)
+  - [![Java](https://img.shields.io/badge/Java-v11.10-darkred.svg?&logo=java)](https://www.java.com/)
+    - [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-v2.4-deepgreen.svg?&logo=spring)](https://spring.io/projects/spring-boot)
     - [![Gradle](https://img.shields.io/badge/Gradle-v6.8-darkblue.svg?&logo=apache)](https://gradle.org/)
     - [![Maven](https://img.shields.io/badge/Maven-v3.6-blue.svg?&logo=apache)](https://maven.apache.org/)
     - [![JPA](https://img.shields.io/badge/jpa-v2.4-deepgreen.svg?&logo=Spring)](https://spring.io/projects/spring-data-jpa)
