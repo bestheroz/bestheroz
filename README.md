@@ -12,10 +12,10 @@
     - [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-v1.4-lightgray.svg?&logo=SQLAlchemy)](https://docs.sqlalchemy.org/)
     - [![django](https://img.shields.io/badge/django-v2.1-darkgreen.svg?&logo=django)](https://docs.djangoproject.com/)
 - Front-end Developer
+  - [![Node.js](https://img.shields.io/badge/Node.js-v14.15-darkgreen.svg?logo=node.js)](https://nodejs.org/), ![Npm](https://img.shields.io/npm/v/npm.svg?logo=npm)
   - [![Vue.js](https://img.shields.io/badge/Vue.js-v2.6-deepgreen.svg?logo=vue.js)](https://kr.vuejs.org/v2/guide/index.html)
     - [![Vuetify](https://img.shields.io/badge/Vuetify-v2.4-blue.svg?logo=vuetify)](https://vuetifyjs.com/)
   - [![TypeScript](https://img.shields.io/badge/TypeScript-v4.2-blue.svg?logo=typescript)](https://www.typescriptlang.org/)
-  - [![Node.js](https://img.shields.io/badge/Node.js-v14.15-darkgreen.svg?logo=node.js)](https://nodejs.org/), ![Npm](https://img.shields.io/npm/v/npm.svg?logo=npm)
   - [![javascript](https://img.shields.io/badge/javascript-es6-orange.svg)]()
   - [![jQuery](https://img.shields.io/badge/jQuery-v3.6-darkblue.svg)](https://jquery.com/)
 
