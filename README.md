@@ -3,15 +3,13 @@
 - Back-end Developer
   - [![Java](https://img.shields.io/badge/Java-v17-darkred.svg?&logo=java)](https://www.java.com/)
     - [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-v2.6-deepgreen.svg?&logo=spring)](https://spring.io/projects/spring-boot)
-    - [![Gradle](https://img.shields.io/badge/Gradle-v7.3-darkblue.svg?&logo=gradle)](https://gradle.org/)
-    - [![Maven](https://img.shields.io/badge/Maven-v3.6-blue.svg?&logo=maven)](https://maven.apache.org/)
+    - [![Gradle](https://img.shields.io/badge/Gradle-v7.4-darkblue.svg?&logo=gradle)](https://gradle.org/)
     - [![JPA](https://img.shields.io/badge/jpa-v2.6-deepgreen.svg?&logo=Spring)](https://spring.io/projects/spring-data-jpa)
-    - [![QueryDSL](https://img.shields.io/badge/QueryDSL-v4.4-blue.svg?logo=querydsl)](https://querydsl.com/)
+    - [![QueryDSL](https://img.shields.io/badge/QueryDSL-v5.0-blue.svg?logo=querydsl)](https://querydsl.com/)
     - [![Mybatis](https://img.shields.io/badge/mybatis-v3.5-darkred.svg?&logo=mybatis)](https://mybatis.org/)
-  - [![Python](https://img.shields.io/badge/python-v3.8-blue.svg?&logo=python)](https://docs.python.org/3.8/)
-    - [![FastAPI](https://img.shields.io/badge/FastAPI-v0.63-teal.svg?logo=fastapi)](https://fastapi.tiangolo.com/)
+  - [![Python](https://img.shields.io/badge/python-v3.8-blue.svg?&logo=python)](https://docs.python.org/3.10/)
+    - [![FastAPI](https://img.shields.io/badge/FastAPI-v0.73-teal.svg?logo=fastapi)](https://fastapi.tiangolo.com/)
     - [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-v1.4-lightgray.svg?&logo=sqlalchemy)](https://docs.sqlalchemy.org/)
-    - [![django](https://img.shields.io/badge/django-v2.1-darkgreen.svg?&logo=django)](https://docs.djangoproject.com/)
 - Front-end Developer
   - [![Node.js](https://img.shields.io/badge/Node.js-v16-darkgreen.svg?logo=node.js)](https://nodejs.org/)
   - [![Vue.js](https://img.shields.io/badge/Vue.js-v2.6-deepgreen.svg?logo=vue.js)](https://kr.vuejs.org/v2/guide/index.html)
@@ -21,7 +19,7 @@
 
 - Etc
   - [![Sentry](https://img.shields.io/badge/Monitorning-Sentry-purple.svg?logo=sentry)](https://sentry.io/)
-  - [![Github Actions](https://img.shields.io/badge/CI/CD-Github%20Actions-black.svg?logo=github)](https://github.com/features/actions), [![CircleCI](https://img.shields.io/badge/CI/CD-CircleCI-black.svg?logo=circleci)](https://circleci.com/)
+  - [![Github Actions](https://img.shields.io/badge/CI/CD-Github%20Actions-black.svg?logo=github)](https://github.com/features/actions)
   - [![AWS](https://img.shields.io/badge/Cloud-AWS-orange.svg?logo=aws)](https://aws.amazon.com/)
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=bestheroz&theme=blue-green)
