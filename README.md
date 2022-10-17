@@ -1,27 +1,30 @@
 ### Hi👋  I am ...🤔
 
 - Back-end Developer
-  - [![Java](https://img.shields.io/badge/Java-v17-darkred.svg?&logo=java)](https://www.java.com/)
-    - [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-v2.7-deepgreen.svg?&logo=spring)](https://spring.io/projects/spring-boot)
-    - [![Gradle](https://img.shields.io/badge/Gradle-v7.5-darkblue.svg?&logo=gradle)](https://gradle.org/)
-    - [![JPA](https://img.shields.io/badge/jpa-v2.7-deepgreen.svg?&logo=Spring)](https://spring.io/projects/spring-data-jpa)
-    - [![QueryDSL](https://img.shields.io/badge/QueryDSL-v5.0-blue.svg?logo=querydsl)](https://querydsl.com/)
-    - [![Mybatis](https://img.shields.io/badge/mybatis-v3.5-darkred.svg?&logo=mybatis)](https://mybatis.org/)
-  - [![Python](https://img.shields.io/badge/python-v3.10-blue.svg?&logo=python)](https://docs.python.org/3.10/)
-    - [![FastAPI](https://img.shields.io/badge/FastAPI-v0.74-teal.svg?logo=fastapi)](https://fastapi.tiangolo.com/)
-    - [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-v1.4-lightgray.svg?&logo=sqlalchemy)](https://docs.sqlalchemy.org/)
+  - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+    - ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+    - ![Hibernate](https://img.shields.io/badge/Hibernate_JPA-%2359666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
+    - ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+    - ![QueryDSL](https://img.shields.io/badge/QueryDSL-0184c0.svg?style=for-the-badge&logo=QueryDSL&logoColor=white)
+    - ![Mybatis](https://img.shields.io/badge/Mybatis-201819.svg?style=for-the-badge&logo=Mybatis&logoColor=white)
+    - ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    - ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+    - ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-cc1e3b.svg?style=for-the-badge&logo=SQLAlchemy&logoColor=white)
 - Front-end Developer
-  - [![Node.js](https://img.shields.io/badge/Node.js-v16-darkgreen.svg?logo=node.js)](https://nodejs.org/)
-  - [![Vue.js](https://img.shields.io/badge/Vue.js-v2.7-deepgreen.svg?logo=vue.js)](https://kr.vuejs.org/v2/guide/index.html)
-    - [![Vuetify](https://img.shields.io/badge/Vuetify-v2.6-blue.svg?logo=vuetify)](https://vuetifyjs.com/)
-  - [![TypeScript](https://img.shields.io/badge/TypeScript-v4.7-blue.svg?logo=typescript)](https://www.typescriptlang.org/)
-  - [![javascript](https://img.shields.io/badge/javascript-ESNext-orange.svg?logo=javascript)]()
+  - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  - ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+  - ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+  - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+    - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  - ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 - Etc
-  - [![Sentry](https://img.shields.io/badge/Monitorning-Sentry-purple.svg?logo=sentry)](https://sentry.io/)
-  - [![Github Actions](https://img.shields.io/badge/CI/CD-Github%20Actions-black.svg?logo=github)](https://github.com/features/actions)
-  - [![AWS](https://img.shields.io/badge/Cloud-AWS-orange.svg?logo=aws)](https://aws.amazon.com/)
-  - [![Kubernetes](https://img.shields.io/badge/Service-Kubernetes-orange.svg?logo=kubernetes)](https://kubernetes.io/)
+  - ![Sentry](https://img.shields.io/badge/Sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
+  - ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+  - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  - ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=bestheroz&theme=blue-green)
 
