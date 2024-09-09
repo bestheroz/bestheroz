@@ -1,9 +1,9 @@
 ### Hi👋  I am ...🤔
 
 - Back-end Developer
-  - ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-    - ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-    - ![Hibernate](https://img.shields.io/badge/Hibernate_JPA-%2359666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white) ![QueryDSL](https://img.shields.io/badge/QueryDSL-0184c0.svg?style=for-the-badge&logo=QueryDSL&logoColor=white) ![Mybatis](https://img.shields.io/badge/Mybatis-201819.svg?style=for-the-badge&logo=Mybatis&logoColor=white)
+  - ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+    - ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+    - ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate_JPA-%2359666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white) ![QueryDSL](https://img.shields.io/badge/QueryDSL-0184c0.svg?style=for-the-badge&logo=QueryDSL&logoColor=white) ![Mybatis](https://img.shields.io/badge/Mybatis-201819.svg?style=for-the-badge&logo=Mybatis&logoColor=white)
     - ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
   - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     - ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
